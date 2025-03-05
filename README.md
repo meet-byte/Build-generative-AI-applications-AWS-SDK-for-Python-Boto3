@@ -1,2 +1,2 @@
-This is a Practical Implementation File For the:
+This is a Practical Implementation of the:
 Blog:1) Build generative AI applications on Amazon Bedrock with the AWS SDK for Python (Boto3)
